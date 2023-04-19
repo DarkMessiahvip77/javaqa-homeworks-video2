@@ -5,5 +5,5 @@ public class Main {
         int result;
         result = ticket / 20;
         System.out.println(result);
-        }
+    }
 }
